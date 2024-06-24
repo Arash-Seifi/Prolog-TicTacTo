@@ -1,0 +1,5 @@
+TO RUN THE PROGRAM:
+% swipl tic_tac_toe.pl
+
+HOW TO GIVE INPUT:
+In Prolog's built-in command-line interface, after entering a number and pressing Enter, Prolog expects you to terminate the input with a period (.) and then press Enter again to confirm the input.
